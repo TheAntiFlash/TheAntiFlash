@@ -21,7 +21,7 @@
 ### :man_technologist: About Me :
 I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
-- :telescope: working as an Android Developer. Learning and exploring opprotunities.
+- :telescope: Currently working with .Net Core
 
 - :blue_book: Currently doing my Bachelor's in Computer Science.
 
@@ -47,6 +47,8 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheAntiFlash&theme=nord&title=MultiLanguage,Commits,Experience,Repositories&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheAntiFlash&theme=dark&background=000000)](https://git.io/streak-stats)
 
